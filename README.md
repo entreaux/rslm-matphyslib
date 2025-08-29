@@ -1,5 +1,5 @@
 # rslm-matlib
-RSLM MatPhysLib
+RSLM MatPhysLib 0.1a
 
 A compact C++20 maths + physics library for Relativistic Spacetime Language Models (RSLM).
 It is a learnable Lorentzian geometry toolbelt (metrics, connections, curvature, geodesics), physics terms (stress–energy, Einstein “fit” residual), and diagnostics (heatmaps, overlays, OBJ surfaces, CSV paths, rich logs).
